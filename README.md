@@ -1,1 +1,1 @@
-Two dice roll to decide a winner between teo players.
+Two dice roll to decide a winner between two players.
